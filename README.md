@@ -1,2 +1,3 @@
 # 04-Practice-Project
-Demo Repository
+# Instructions
+Demo Repository: This repository is for practice sessions. 
